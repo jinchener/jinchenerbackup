@@ -1,0 +1,37 @@
+# navbar
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags/
+  About: /about/
+
+# site icon
+favicon: /favicon.ico
+
+# comments
+comments:
+  post: true
+  about: true
+
+# Analytics
+## Baidu Analytics
+#baidu_analytics: 
+## Google Analytics
+google_analytics: UA-80439808-1 
+
+# Comments
+## Duoshuo
+duoshuo_shortname: jinchener
+## Disqus
+#disqus_shortname: jinchener
+
+# Social links
+social:
+  email: mailto:jinchener@gmail.com
+  # stack-overflow:
+  # twitter:
+  # facebook:
+  github: https://github.com/jinchener
+  weibo: http://weibo.com/jinchener
+  zhihu: https://www.zhihu.com/people/kang-xu-dong
+  #rss: /atom.xml
